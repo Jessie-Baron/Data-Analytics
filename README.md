@@ -14,5 +14,4 @@ This Data Analysis uses the Kaggle API and Sqlite to download a dataset from Kag
 ![Screen Shot 2023-07-09 at 5 31 48 PM](https://github.com/Jessie-Baron/Data-Analytics/assets/101578812/930c4651-c148-4bda-a81c-ae1c6c0ddc6a)
 
 
-LINK: Blair Wishom — 07/06/2023 10:55 AM
-https://public.tableau.com/app/profile/blair.wishom/viz/GlobalSuperstoreVisuals_16880509294680/Dashboard2
+LINK: https://public.tableau.com/app/profile/blair.wishom/viz/GlobalSuperstoreVisuals_16880509294680/Dashboard2
